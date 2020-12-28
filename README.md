@@ -111,4 +111,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
+<p align="center">
+<img alt="DesafioFundamentosReactJS" src="https://user-images.githubusercontent.com/12499627/103232332-f138b400-4918-11eb-9ac6-7524f50de40e.png" />
+</p>
+
 ✔ By Wellton Quirino, [Linkedin](https://www.linkedin.com/in/welltonquirino95/)
